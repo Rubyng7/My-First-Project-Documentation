@@ -17,5 +17,5 @@ I have learnt quite a number of things ranging from Ms Excel to SQL and now to m
         1. Data manipulation
         2. Data munching
 - SQL Sever for querying and analysis
-- Power BI for creating a report
+- Power BI for creating a report [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Ms Power Point for presentation.
