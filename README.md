@@ -20,6 +20,8 @@ I have learnt quite a number of things ranging from Ms Excel to SQL and now to m
 - Power BI for creating a report [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Ms Power Point for presentation.
 
-- ''' SQL
-- Select * from DSA_Db
-- Where employee is 'male'
+```  SQL
+Select * from DSA_Db
+Where employee is 'male'
+
+```
