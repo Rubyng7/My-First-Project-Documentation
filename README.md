@@ -27,3 +27,19 @@ Where employee is 'male'
 ```
 
 ### Analysis
+
+
+
+
+![Screenshot_20221128_103000](https://github.com/user-attachments/assets/94fc1048-6ca4-4113-a683-ff6054105158)
+
+
+
+
+![Screenshot_20221128_111842](https://github.com/user-attachments/assets/6dfc3e29-7cf0-44b2-a55e-28020f1cda6b)
+
+
+
+
+
+
