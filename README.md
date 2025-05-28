@@ -25,3 +25,5 @@ Select * from DSA_Db
 Where employee is 'male'
 
 ```
+
+### Analysis
